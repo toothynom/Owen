@@ -1,3 +1,0 @@
-/home/omo/Documents/Git/Owen/build/CMakeFiles/Owen.dir
-/home/omo/Documents/Git/Owen/build/CMakeFiles/edit_cache.dir
-/home/omo/Documents/Git/Owen/build/CMakeFiles/rebuild_cache.dir

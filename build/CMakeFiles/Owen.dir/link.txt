@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/Owen.dir/main.cpp.o CMakeFiles/Owen.dir/owen.cpp.o -o Owen  /usr/lib/libglog.so.0.7.0 /usr/lib/libX11.so /usr/lib/libgflags.so.2.2.2
